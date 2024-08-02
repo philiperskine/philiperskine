@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @philiperskine!
-- 👀 I’m interested in learning coding and computer science to reskill as a software engineer.
+- 👀 I’m currently learning coding and computer science to reskill as a software engineer or IT professional.
   
 - 🌱 I’m currently learning Python, HTML, CSS, and JavaScript.
-- I'm working my way through Al Sweigart's book 'Invent Your Own Computer Games With Python' (4th ed.) [I'm currently on p.57/334].
+- I'm working my way through Al Sweigart's book 'Invent Your Own Computer Games With Python' (4th ed.) [I'm currently on p.61/334].
 - I've just started taking CS50x (AKA 'CS50's Introduction to Computer Science') [I'm currently on the Week 0 task].
   
 - 💞️ I’m looking to collaborate on simple projects.
