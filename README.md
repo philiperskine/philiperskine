@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @philiperskine!
 - 👀 I’m currently learning coding and computer science to reskill as both a software engineer and an IT professional.
   
-- 🐍 I’m improving my Python skills by working through the projects in Al Sweigart's book 'Invent Your Own Computer Games With Python' (4th ed.) [I'm currently on p.73/334].
+- 🐍 I’m improving my Python skills by working through the projects in Al Sweigart's book 'Invent Your Own Computer Games With Python' (4th ed.) [I'm currently on p.74/334 - Chapter 6: 'Using The Debugger'].
 - 💻 I'm also studying for the CompTIA IT Fundamentals (ITF+) exam, which I intend to sit before the end of 2024.
   
 - 💞️ I’m looking to collaborate on simple projects.
