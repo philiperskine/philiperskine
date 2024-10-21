@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @philiperskine!
 
-- 👀 I’m currently learning coding and computer science to reskill as both a software engineer and an IT professional.
+- 👀 I’m an IT professional and software engineer.
   
 - What I'm learning:
   - 🐍 I’m improving my Python skills by working through the projects in Al Sweigart's book 'Invent Your Own Computer Games With Python' (4th ed.) [I'm currently on Chapter 7: 'Designing Hangman with Flowcharts'].
-  - 💻 I'm studying for the CompTIA IT Fundamentals (ITF+) exam, which I am sitting in mid-October 2024.
+  - 💻 I'm CompTIA ITF+ certified, and am studying for the CompTIA A+ exam which I will be sitting in 2025.
   - 🖱️ I'm upskilling with Microsoft Learn, so if you would like to see my skill level and find out what I've learned, check out my profile via the link below. 
   
 - 📫 Contact/Portfolios:
