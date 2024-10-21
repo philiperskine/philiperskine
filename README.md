@@ -12,7 +12,7 @@
   - Microsoft Learn: https://learn.microsoft.com/en-us/users/philiperskine/ 
 
 - 😄 Pronouns: He/Him
-- 🎵 Fun fact: I am a professional musician who only started to code for the first time in 2023!
+- 🎵 Fun fact: My background is in music and I only started to code for the first time in 2023!
 
 <!---
 philiperskine/philiperskine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
